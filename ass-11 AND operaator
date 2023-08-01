@@ -1,0 +1,5 @@
+MVI A,7
+MVI B,5
+ANA B
+STA 2100
+HLT
